@@ -18,8 +18,8 @@ Hello, I'm Sara. Data Analyst with expertise in data analysis and reporting, dat
 - Excel, MySQL, and Tableau to create 100% data-driven insights using organizational data.
 
 📫 How to reach me
-Linkedin:
-Email: saran42@comcast.net
+- Linkedin:
+- Email: saran42@comcast.net
 
 <!--
 **saranabizadeh/saranabizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
