@@ -1,4 +1,4 @@
-## Who's Sara Nabizadeh? 🙋🏻‍♀️
+## Who's Sara Nabizadeh?
 
 Hello, I'm Sara. Data Analyst with expertise in data analysis and reporting, data cleaning, query optimization, and dashboard design. 
 
