@@ -7,18 +7,18 @@ Hello, I'm Sara. Data Analyst with expertise in data analysis and reporting, dat
 - Generating reports and performing data analysis using SQL.
 - Developing dashboards on Tableau and Excel.
 
-🎓 Education and Certificates
+Education and Certificates
 
 - Currently working on a Masters in Business Administration
 - Psychology BA
 - Excel Skills for Business Specialization Certificate
 - IBM Data Analyst Professional Certificate
 
-🛠️ Tools
-- Excel, MySQL, and Tableau to create 100% data-driven insights using organizational data.
+Tools
+- Excel, MySQL, and Tableau
 
-📫 How to reach me
-- Linkedin:
+How to reach me
+- Linkedin: www.linkedin.com/in/sara-nabizadeh-117019408
 - Email: saran42@comcast.net
 
 <!--
