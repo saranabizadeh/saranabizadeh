@@ -9,8 +9,8 @@ Hello, I'm Sara. Data Analyst with expertise in data analysis and reporting, dat
 
 Education and Certificates
 
-- Currently working on a Masters in Business Administration
-- Psychology BA
+- Masters in Business Administration - In Progress, 2027
+- Bachelor of Arts in Psychology
 - Excel Skills for Business Specialization Certificate
 - IBM Data Analyst Professional Certificate
 
