@@ -1,6 +1,6 @@
 ## Who's Sara Nabizadeh?
 
-Hello, I'm Sara. Data Analyst with expertise in data analysis and reporting, data cleaning, query optimization, and dashboard design. 
+Hey, I'm Sara! I'm a data Analyst with expertise in data analysis and reporting, data cleaning, query optimization, and dashboard design. 
 
 - Cleaning, data analysis, and reporting using Excel.
 - Querying data using SQL.
