@@ -1,6 +1,6 @@
 ## Who's Sara Nabizadeh?
 
-Hey, I'm Sara! I'm a data Analyst with expertise in data analysis and reporting, data cleaning, query optimization, and dashboard design. 
+Hey, I'm Sara! I'm a Data Analyst with expertise in data analysis and reporting, data cleaning, query optimization, and dashboard design. 
 
 - Cleaning, data analysis, and reporting using Excel.
 - Querying data using SQL.
@@ -20,6 +20,8 @@ Tools
 How to reach me
 - Linkedin: www.linkedin.com/in/sara-nabizadeh-117019408
 - Email: saran42@comcast.net
+
+Check out my projects on my pinned!
 
 <!--
 **saranabizadeh/saranabizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
